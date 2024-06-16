@@ -1,5 +1,5 @@
 ## Hi, I'm Alyssa
 
-#### About me
+I am a student at UNSW studying computer science. 
 
 
